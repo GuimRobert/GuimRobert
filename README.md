@@ -2,8 +2,10 @@
 </p> 
 
  ### Hi there 👋, I am Guim Robert.
+ ---
+ ## 🚀 About Me
 
- ##### A passionate Data Scientist from Spain working on open source projects!
+ A passionate Data Scientist from Spain working on open source projects!
 
  - 🔭 I’m currently working on open-source projects in Analytics & ML fields.
  - 🌱 Always learning new Technologies.
