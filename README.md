@@ -5,12 +5,18 @@
  ---
  ## 🚀 About Me
 
- A passionate Data Scientist from Spain working on open source projects!
+I'm a passionate Data Scientist with a love for turning raw data into actionable insights. With a strong background in statistics, machine learning, and data visualization, I thrive on solving complex problems and making data-driven decisions. Here's a bit about what I do:
 
- - 🔭 I’m currently working on open-source projects in Analytics & ML fields.
- - 🌱 Always learning new Technologies.
- - 💬 Ask me about ML and Python!
- - 📫 How to reach me guimrobert@gmail.com
+- 📊 **Data Analysis & Visualization**: I specialize in extracting meaningful patterns and trends from large datasets using tools like Python and SQL.
+- 🤖 **Machine Learning**: I build predictive models and implement machine learning algorithms to forecast and classify data, improving business processes and outcomes.
+- 📈 **Statistical Modeling**: My expertise in statistical techniques helps in making sense of data distributions and variabilities, providing robust and reliable results.
+- 🛠️ **Tools & Technologies**: Proficient in Python, SQL, PowerBI, and other data-centric tools, I leverage these to develop end-to-end data solutions.
+- 🌐 **Collaboration & Communication**: I work effectively within cross-functional teams, translating technical findings into clear, actionable insights for stakeholders.
+
+Passionate about continuous learning and staying updated with the latest industry trends, I am always looking to innovate and contribute to impactful data projects.
+
+Feel free to connect with me or check out my repositories to see some of my work!
+📫 You can find me on [LinkedIn](https://www.linkedin.com/in/guimrobert) or send an email to [guimrobert@gmail.com](mailto:guimrobert@gmail.com). I am open to new opportunities and collaborations!
  
  ---
 
