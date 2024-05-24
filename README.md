@@ -17,16 +17,7 @@ Passionate about continuous learning and staying updated with the latest industr
 
 Feel free to connect with me or check out my repositories to see some of my work!
 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/guimrobert) or send an email to [guimrobert@gmail.com](mailto:guimrobert@gmail.com). I am open to new opportunities and collaborations!
- 
- ---
-
-
- 
-
- ### Social(Tech) Profiles 
- <p align='left'><a href="https://linkedin.com/in/guimrobert" target="_blank"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> 
-
- 
+  
  ---
 
 
